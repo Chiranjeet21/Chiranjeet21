@@ -82,7 +82,7 @@ PyMOL • ChimeraX • Coot • Phenix
 ### Bioinformatics
 
 ```text
-MEGA • Cytoscape • COPASI • FigTree • Open Babel • Biopython
+MEGA • FigTree • Cytoscape • COPASI • Open Babel • Biopython • AutoDock Vina • GROMACS
 ```
 
 ### Scientific Software
@@ -107,14 +107,22 @@ Linux • macOS • Windows
 
 - 🏆 **Nature (2026)**  
   *N1-Methylpseudouridine directly modulates translation dynamics*
-
+  doi: 10.1038/s41586-025-09945-5. PMID: 41535458.
+  
 - Mini Reviews in Medicinal Chemistry (2024)
+  Antiviral Flavonoids: A Natural Scaffold with Prospects as Phytomedicines against SARS-CoV2
+  doi: 10.2174/1389557523666230503105053. PMID: 37138419.
 
 - Molecular Informatics (2023)
+  A multi-tier computational screening framework to effectively search the mutational space of SARS-CoV-2 receptor binding motif to identify mutants with enhanced ACE2 binding abilities. doi: 10.1002/minf.202300055. PMID: 37590498.
 
 - Infectious Diseases Diagnosis & Treatment (2023)
+  Deciphering the Structural and Functional Properties of ABC-F ATPases.
+  doi: 10.29011/2577-1515.100225.
 
 - Biochemical and Biophysical Research Communications (2022)
+  Decoding the effects of spike receptor binding domain mutations on antibody escape abilities of omicron variants.
+  doi: 10.1016/j.bbrc.2022.08.050. PMID: 36041326.
 
 ---
 
