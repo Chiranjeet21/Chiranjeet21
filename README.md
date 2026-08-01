@@ -14,13 +14,13 @@
 
 I am a **Ph.D. student** in the **Department of Chemical and Structural Biology** at the **Weizmann Institute of Science**, Israel, working in **Prof. Ada Yonath's Laboratory**.
 
-My research aims to understand the molecular mechanisms governing **protein and ribosome function** by integrating:
+My research aims to understand the molecular mechanisms governing **ribosome function** by integrating:
 
 - 🧬 Structural Biology
 - ❄️ Cryo-Electron Microscopy (Cryo-EM)
 - ⚛️ Biophysics
 - 💻 Bioinformatics
-- 🧪 Computational Biology
+- 🧪 Experimental Biology
 
 I enjoy developing computational workflows that complement experimental structural biology and help decipher biomolecular mechanisms.
 
@@ -32,7 +32,7 @@ I enjoy developing computational workflows that complement experimental structur
 - Cryo-EM
 - Ribosome Biology
 - Protein Structure & Dynamics
-- ATPases & Molecular Machines
+- ATPases/GTPase & Molecular Machines
 - Protein–RNA Interactions
 - Bioinformatics
 - Computational Biology
@@ -43,6 +43,7 @@ I enjoy developing computational workflows that complement experimental structur
 ## 🧪 Experimental Expertise
 
 - Protein Purification
+- RNA/DNA/Plasmid Isolation
 - Ribosome Purification
 - Cryo-EM
 - Electron Microscopy
