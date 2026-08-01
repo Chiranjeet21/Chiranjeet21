@@ -20,7 +20,7 @@ My research aims to understand the molecular mechanisms governing **protein and 
 - ❄️ Cryo-Electron Microscopy (Cryo-EM)
 - ⚛️ Biophysics
 - 💻 Bioinformatics
-- 🧪 Computational Structural Biology
+- 🧪 Computational Biology
 
 I enjoy developing computational workflows that complement experimental structural biology and help decipher biomolecular mechanisms.
 
@@ -54,11 +54,11 @@ I enjoy developing computational workflows that complement experimental structur
 
 ### Biophysical Techniques
 
-- ITC
-- SPR
-- MST
-- DLS
-- DSC
+- Isothermal titration calorimetry (ITC)
+- Surface plasmon resonance (SPR)
+- Microscale thermophoresis (MST)
+- Dynamic light scattering (DLS)
+- Differential scanning calorimetry (DSC)
 - Circular Dichroism (CD)
 
 ---
