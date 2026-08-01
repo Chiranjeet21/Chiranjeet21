@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiranjeet Saha</h1>
-<h3 align="center">Ph.D. Researcher | Structural Biology | Cryo-EM | Biophysics | Bioinformatics</h3>
+<h3 align="center">Ph.D. Researcher | Structural Biology | Biophysics | Bioinformatics</h3>
 
 <p align="center">
   <a href="https://orcid.org/0009-0003-7273-8194"><img src="https://img.shields.io/badge/ORCID-0009--0003--7273--8194-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
@@ -17,7 +17,6 @@ I am a **Ph.D. student** in the **Department of Chemical and Structural Biology*
 My research aims to understand the molecular mechanisms governing **ribosome function** by integrating:
 
 - 🧬 Structural Biology
-- ❄️ Cryo-Electron Microscopy (Cryo-EM)
 - ⚛️ Biophysics
 - 💻 Bioinformatics
 - 🧪 Experimental Biology
@@ -55,6 +54,8 @@ I enjoy developing computational workflows that complement experimental structur
 
 ### Biophysical Techniques
 
+- Gas Chromatography – Mass Spectrometry (GC - MS)
+- Bottom-up Mass Spectrometry (Shotgun Proteomics)
 - Isothermal titration calorimetry (ITC)
 - Surface plasmon resonance (SPR)
 - Microscale thermophoresis (MST)
@@ -81,7 +82,7 @@ PyMOL • ChimeraX • Coot • Phenix
 ### Bioinformatics
 
 ```text
-MEGA • Cytoscape • COPASI • FigTree • Open Babel
+MEGA • Cytoscape • COPASI • FigTree • Open Babel • Biopython
 ```
 
 ### Scientific Software
@@ -135,18 +136,6 @@ Linux • macOS • Windows
 
 </p>
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chiranjeet21&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranjeet21&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Chiranjeet21&theme=transparent&hide_border=true"/>
-</p>
 ---
 
 ## 📫 Connect With Me
